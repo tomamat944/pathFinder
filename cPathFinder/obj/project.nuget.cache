@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWz+TXueLKD6qLbm2727ayCKw7BobXYpAA5JVpZcDl7e2kjbhT6xGWjbx16cPsGmkTYxQJoRacP+GGCOXTdL7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomasz\\source\\repos\\cPathFinder\\cPathFinder\\cPathFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomasz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tomasz\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\tomasz\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\tomasz\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
